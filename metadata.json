@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TripQ - Indonesian Travel Companion",
+  "description": "A smart travel application for exploring Indonesia with personalized destination guides, weather-aware vehicle recommendations, and integrated mapping features, all wrapped in a beautiful Batik-inspired design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
